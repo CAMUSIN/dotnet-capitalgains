@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGainsTaxes", "CapitalGainsTaxes\CapitalGainsTaxes.csproj", "{CA33520E-FFDE-44FF-B8AA-507C928B8C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalGainsTaxes.Test", "CapitalGainsTaxes.Test\CapitalGainsTaxes.Test.csproj", "{3ADEE18C-4904-4BEE-84BA-9B71D94B3033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA33520E-FFDE-44FF-B8AA-507C928B8C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA33520E-FFDE-44FF-B8AA-507C928B8C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA33520E-FFDE-44FF-B8AA-507C928B8C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA33520E-FFDE-44FF-B8AA-507C928B8C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADEE18C-4904-4BEE-84BA-9B71D94B3033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADEE18C-4904-4BEE-84BA-9B71D94B3033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADEE18C-4904-4BEE-84BA-9B71D94B3033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADEE18C-4904-4BEE-84BA-9B71D94B3033}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0771588F-0C89-4598-945E-C7F1910E6F75}
+	EndGlobalSection
+EndGlobal
